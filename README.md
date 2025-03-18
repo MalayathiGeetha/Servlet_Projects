@@ -1,4 +1,4 @@
-User Management Servlet Project
+# **User Management Servlet Project**
 The User Management Servlet Project is a simple web-based CRUD (Create, Read, Update, Delete) application built using Java Servlets, JSP, and MySQL. 
 It allows users to manage a list of users with basic functionalities: adding new users, editing existing user details, deleting users, and viewing a list of
 all users. The project uses JSP for the frontend and Servlets to handle backend logic, ensuring a clean separation between UI and business logic.
